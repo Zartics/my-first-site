@@ -1,0 +1,24 @@
+<? xml version="1.0" encoding="UTF-8"?>
+<urlset
+xmlns="[http://www.sitemaps.org/schemas/sitemap/0.9](http://www.sitemaps.org/schemas/sitemap/0.9)">
+<!- Головна сторінка ->
+<url>
+<loc>https://zartics.github.io/my-first-site//</loс>
+<lastmod>2025-12-14</lastmod>
+<priority>1.0</priority>
+</url>
+
+<!- Приклад додаткової сторінки "Про нас" ->
+<url>
+<loc>https://zartics.github.io/my-first-site//about</loc>
+<lastmod>2025-12-14</lastmod>
+<priority>0.8</priority>
+</url>
+
+<!- Приклад сторінки "Контакти" ->
+<url>
+<loc>https://zartics.github.io/my-first-site//contact</loc>
+<lastmod>2025-12-14</lastmod>
+<priority>0.7</priority>
+</url>
+</urlset>
